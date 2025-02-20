@@ -23,9 +23,12 @@ Este é um simples Jogo da Velha (Tic-Tac-Toe) desenvolvido em C para ser jogado
 - **`cls()`**: Limpa a tela para uma melhor visualização do jogo.
 
 Inicialização:
+
 ![Image](https://github.com/user-attachments/assets/990e98bf-4454-4cb0-b460-7fc0037b81d1)
 
 Durante o jogo:
+
+![Image](https://github.com/user-attachments/assets/4162e002-a9eb-4cc4-aed5-49f79d11ada1)
 
 ## Execução
 Para compilar e rodar o código em sistemas Windows:
